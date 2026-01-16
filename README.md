@@ -147,5 +147,6 @@ RealTimeCollaborativeEditor
 
 ## Author
 
-Harshith Kumar B K (For College)
-Aspiring Software Development Engineer and AI/ML Engineer
+`Harshith Kumar B K (For College)`
+`Contact - kumarsetty1212@gmail.com`
+`Aspiring Software Development Engineer and AI/ML Engineer`
