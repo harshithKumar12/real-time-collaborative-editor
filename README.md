@@ -125,5 +125,5 @@ Multiple clients can be launched to test real-time collaboration.
 
 ## Author
 
-Harshith Kumar B K 
+Harshith Kumar B K (For College)
 Aspiring Software Development Engineer and AI/ML Engineer
